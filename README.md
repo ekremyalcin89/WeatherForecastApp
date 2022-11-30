@@ -1,6 +1,6 @@
 # WeatherForecastApp
 hello!       
-With this app   you can get the current weather forecast  of over 2000 cities.    worked with  weather API  and UIKit .
+With this app   you can get the current weather forecast temperature, temperature feels like, humidity and wind speed of over 2000 cities.    worked with  weather API  and UIKit .
 
 You can check the video down below 
 
