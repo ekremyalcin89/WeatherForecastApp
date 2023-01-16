@@ -5,8 +5,11 @@ With this app   you can get the current weather forecast  temperature degree, te
 Made with ,
 
 * UIKit
+* MVVM Architecture
 * Open Weather Map API
-* UITable Views
+* UIButton
+* Search bar
+
 
 You can check the video down below 
 
