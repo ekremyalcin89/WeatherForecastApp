@@ -7,7 +7,6 @@ Made with ,
 * UIKit
 * MVVM Architecture
 * Open Weather Map API
-* UIButton
 * Search bar
 
 
